@@ -1,0 +1,60 @@
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/bin/Debug/net7.0/Cars.Abstraction.deps.json
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/bin/Debug/net7.0/Cars.Abstraction.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/bin/Debug/net7.0/Cars.Abstraction.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/bin/Debug/net7.0/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/bin/Debug/net7.0/Cars.Models.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.csproj.AssemblyReference.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.AssemblyInfoInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.AssemblyInfo.cs
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.csproj.CoreCompileInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.csproj.CopyComplete
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/refint/Cars.Abstraction.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/Cars.Abstraction.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Abstraction/obj/Debug/net7.0/ref/Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\refint\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\ref\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\refint\Cars.Abstraction.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\ref\Cars.Abstraction.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.deps.json
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abs.CE17F812.Up2Date
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\refint\Cars.Abstraction.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\Cars.Abstraction.pdb
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Abstraction\obj\Debug\net7.0\ref\Cars.Abstraction.dll
