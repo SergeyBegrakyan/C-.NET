@@ -1,0 +1,47 @@
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Debug/net7.0/Cars.Models.deps.json
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Debug/net7.0/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Debug/net7.0/Cars.Models.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.AssemblyInfoInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.AssemblyInfo.cs
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.csproj.CoreCompileInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/refint/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/ref/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Debug/net7.0/Cars.Models.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\refint\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\ref\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\refint\Cars.Models.dll
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.pdb
+C:\Users\User\OneDrive\Рабочий стол\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\ref\Cars.Models.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.deps.json
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\bin\Debug\net7.0\Cars.Models.pdb
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\refint\Cars.Models.dll
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\Cars.Models.pdb
+C:\Users\Lenovo\Desktop\Cars (1) (1)\Cars (1) (1)\Cars (1)\Cars\Cars.Models\obj\Debug\net7.0\ref\Cars.Models.dll

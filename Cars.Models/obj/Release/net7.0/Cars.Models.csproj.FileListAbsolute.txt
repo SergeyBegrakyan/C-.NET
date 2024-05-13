@@ -1,0 +1,12 @@
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Release/net7.0/Cars.Models.deps.json
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Release/net7.0/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/bin/Release/net7.0/Cars.Models.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.AssemblyInfoInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.AssemblyInfo.cs
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.csproj.CoreCompileInputs.cache
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/refint/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.pdb
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/ref/Cars.Models.dll
+/Users/sergeybegrakyan/Desktop/Cars/Cars.Models/obj/Release/net7.0/Cars.Models.csproj.AssemblyReference.cache
